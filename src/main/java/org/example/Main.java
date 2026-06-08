@@ -18,3 +18,7 @@ public class Main {
 int interOperandA=12
         int interOperandB=40
                 int intSum=20
+                        int intProduct=15
+                                int intDifference=5
+                                        int intQuotient=100
+                                                int intModulo=10
