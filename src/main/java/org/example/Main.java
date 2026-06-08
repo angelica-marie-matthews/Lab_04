@@ -15,3 +15,6 @@ public class Main {
         }
     }
 }
+int interOperandA=12
+        int interOperandB=40
+                int intSum=20
