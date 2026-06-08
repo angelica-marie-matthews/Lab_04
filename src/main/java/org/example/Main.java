@@ -21,4 +21,11 @@ int interOperandA=12
                         int intProduct=15
                                 int intDifference=5
                                         int intQuotient=100
-                                                int intModulo=10
+                                                int intModulo=10;
+int doubleOperandA=75.8
+        int doubleOperandB=6
+                int doubleSum=1
+                        int doubleProduct=11
+                                int doubleDifference=7
+                                        int doubleQuotient=190
+
