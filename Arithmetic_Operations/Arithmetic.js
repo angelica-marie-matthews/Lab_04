@@ -19,3 +19,15 @@ doubleQuotient= 190;
 
 intSum = intOperandA+intOperandB;
 System.out.printIn ("The sum using ints of"+ intOperandA+"and"+ intOperandB+ "is"+intSum);
+doubleSum = doubleOperandA + doubleOperandB;
+System.out.println("The sum using doubles of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleSum);
+doubleDifference = doubleOperandA - doubleOperandB;
+System.out.println("The difference using doubles of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleDifference);
+
+doubleProduct = doubleOperandA * doubleOperandB;
+System.out.println("The product using doubles of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleProduct);
+
+doubleQuotient = doubleOperandA / doubleOperandB;
+System.out.println("The quotient using doubles of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleQuotient);
+}
+}
